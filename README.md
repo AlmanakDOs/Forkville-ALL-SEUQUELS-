@@ -1,2 +1,2 @@
-# Forkville-ALL-SEUQUELS-
-Forkville is a Experimental Typing Quest Game
+# Forkville
+Forkville is a Experimental Typing Quest Game Inspired by ZORK realsed in machintos in the late 70's
